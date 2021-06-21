@@ -5,12 +5,14 @@
 // Import Bulma's core
 @import "~bulma/sass/utilities/_all";
 // Set your colors
-$primary: #424874;
+$primary: #3e495c;
 $light-invert: findcolorinvert($light);
 $primary-invert: findcolorinvert($primary);
 $darkish: #4a4a4a;
 $darkish-invert: findcolorinvert($darkish);
 $control-border-width: 0.125em;
+$card-radius: 0.25rem;
+$card-color: #000;
 // Setup $colors to use as bulma classes (e.g. 'is-light-blue')
 $colors: (
   "white": (
