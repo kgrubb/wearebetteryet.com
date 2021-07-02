@@ -11,26 +11,28 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-16by9">
-              <img src="@/assets/betteryet.jpg" alt="Better Yet">
+              <img
+                src="@/assets/betteryet.jpg"
+                alt="Better Yet"
+              >
             </figure>
           </div>
         </div>
         <Linkbar />
       </div>
     </div>
-    </div>
   </section>
 </template>
 
 <script>
-import Linkbar from '~/components/Linkbar'
+import Linkbar from './Linkbar.vue';
 
 export default {
   name: 'Hero',
   components: {
-    Linkbar
-  }
-}
+    Linkbar,
+  },
+};
 </script>
 
 <style scoped>
