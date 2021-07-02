@@ -1,18 +1,20 @@
 module.exports = {
-  root: true,
   env: {
     browser: true,
-    node: true
-  },
-  parserOptions: {
-    parser: 'babel-eslint'
+    es2021: true,
+    node: true,
   },
   extends: [
-    '@nuxtjs',
-    'plugin:nuxt/recommended'
+    'plugin:vue/recommended',
+    'airbnb-base',
   ],
+  parserOptions: {
+    ecmaVersion: 12,
+    sourceType: 'module',
+  },
   plugins: [
+    'vue',
   ],
-  // add your custom rules here
-  rules: {}
-}
+  rules: {
+  },
+};

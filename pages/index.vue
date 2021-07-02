@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import Hero from '~/components/Hero'
+import Hero from '../components/Hero.vue';
 
 export default {
   name: 'HomePage',
 
   components: {
-    Hero
-  }
-}
+    Hero,
+  },
+};
 </script>

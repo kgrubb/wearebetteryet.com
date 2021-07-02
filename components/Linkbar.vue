@@ -53,6 +53,6 @@
 </template>
 <script>
 export default {
-  name: 'Linkbar'
-}
+  name: 'Linkbar',
+};
 </script>
