@@ -19,7 +19,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "nuxt": "^2.15.8",
-    "nuxt-buefy": "^0.4.9"
+    "nuxt-buefy": "^0.4.10"
   },
   "devDependencies": {
     "@nuxtjs/eslint-module": "^3.0.2",
