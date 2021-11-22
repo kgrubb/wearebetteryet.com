@@ -18,12 +18,12 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
-    "nuxt": "^2.15.7",
-    "nuxt-buefy": "^0.4.8"
+    "nuxt": "^2.15.7"
   },
   "devDependencies": {
     "@nuxtjs/eslint-module": "^3.0.2",
     "@nuxtjs/stylelint-module": "^4.0.0",
+    "bulma": "^0.9.3",
     "eslint": "^7.18.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.23.4",
@@ -31,7 +31,7 @@
     "eslint-plugin-vue": "^7.5.0",
     "fibers": "^5.0.0",
     "husky": "^7.0.0",
-    "lint-staged": "^11.0.0",
+    "lint-staged": "^12.1.1",
     "nuxt-compress": "^5.0.0",
     "sass": "^1.35.1",
     "sass-loader": "^10.2.0",

@@ -3,7 +3,7 @@
 </template>
 <style lang="scss">
 // Import Bulma's core
-@import "~bulma/sass/utilities/_all";
+@import "bulma/sass/utilities/_all";
 // Set your colors
 $primary: #3e495c;
 $light-invert: findcolorinvert($light);
@@ -60,9 +60,8 @@ $colors: (
 $link: $primary;
 $link-invert: $primary-invert;
 $link-focus-border: $primary;
-// Import Bulma and Buefy styles
-@import "~bulma";
-@import "~buefy/src/scss/buefy";
+// Import Bulma
+@import "bulma/bulma.sass";
 @import "@fortawesome/fontawesome-free/css/all.css";
 
 html {
