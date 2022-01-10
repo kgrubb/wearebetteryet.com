@@ -35,7 +35,7 @@
     "nuxt-compress": "^5.0.0",
     "sass": "^1.47.0",
     "sass-loader": "^10.2.0",
-    "stylelint": "^13.9.0",
-    "stylelint-config-standard": "^22.0.0"
+    "stylelint": "^14.2.0",
+    "stylelint-config-standard": "^24.0.0"
   }
 }
