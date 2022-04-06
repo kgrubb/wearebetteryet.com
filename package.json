@@ -26,7 +26,7 @@
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^8.5.0",
     "husky": "^7.0.0",
-    "lint-staged": "^12.3.3",
+    "lint-staged": "^12.3.7",
     "nuxt-compress": "^5.0.0",
     "sass": "^1.49.7",
     "sass-loader": "^10.2.0"
