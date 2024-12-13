@@ -28,7 +28,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^15.2.10",
     "nuxt-compress": "^5.0.0",
-    "sass": "^1.82.0",
+    "sass": "^1.83.0",
     "sass-loader": "^10.2.0"
   }
 }
