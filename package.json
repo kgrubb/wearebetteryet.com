@@ -14,7 +14,7 @@
     "*.{js,vue}": "npm run lint"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^7.0.0",
+    "@fortawesome/fontawesome-free": "^7.0.1",
     "nuxt": "^2.18.1"
   },
   "devDependencies": {
